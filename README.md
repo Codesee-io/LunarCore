@@ -25,6 +25,7 @@
 
 ### Prerequisites
 * [Java 17 JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* CodeSee Account
 
 ### Recommended
 * [MongoDB 4.0+](https://www.mongodb.com/try/download/community)
